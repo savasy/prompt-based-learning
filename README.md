@@ -7,7 +7,7 @@ Prompt-based learning is a new paradigm in the NLP field. In prompt-based learni
 In order to use the models to achieve prediction tasks, the only thing to be done is to modify the original input<X> using a task-specific template into a textual string prompt such as
   * <X, that is [MASK].> 
  
- Here is a quick run!
+ Here is a quick demo!
  
  ```
 # load Prompting class
