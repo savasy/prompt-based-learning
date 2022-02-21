@@ -37,4 +37,3 @@ model | zero-shot acc.
 bert-base-uncased|73.5
 bert-large-uncased | 77.25
  
-the model can achieve the task even without learning.  Such a mechanism allows us to exploit any LM that is pre-trained on huge amounts of textual data. This prompting function can be defined to make any LM be able to achieve few-shot
