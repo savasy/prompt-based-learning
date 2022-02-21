@@ -36,4 +36,6 @@ model | zero-shot acc.
 ---|---
 bert-base-uncased|73.5
 bert-large-uncased | 77.25
+distilbert-base-uncased|73.75
+ 
  
